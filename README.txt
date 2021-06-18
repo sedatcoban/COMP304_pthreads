@@ -1,10 +1,7 @@
 COMP 304 
 Spring 2021
 Project 2
-
-Project Members:
-Sedat Çoban 60545
-Burcu Özer 64535
+Sedat Çoban
 
 Part I
 In this part, first, the moderator thread and the commentor threads are initialized in the main function with ask and request methods respectively.
